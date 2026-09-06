@@ -39,4 +39,4 @@ Hosted as a static site (GitHub Pages, currently mapped to a custom domain via G
 
 ## Contact
 
-📧 info@basementghost.com
+📧 hello@basementghost.com
